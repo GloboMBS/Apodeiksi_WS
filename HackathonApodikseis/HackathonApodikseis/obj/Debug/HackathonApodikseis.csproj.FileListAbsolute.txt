@@ -1,0 +1,14 @@
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\obj\Debug\HackathonApodikseis.csprojResolveAssemblyReference.cache
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\HackathonApodikseis.dll.config
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\HackathonApodikseis.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\HackathonApodikseis.pdb
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\Newtonsoft.Json.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Net.Http.Formatting.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Web.Http.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Web.Http.WebHost.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\Newtonsoft.Json.xml
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Net.Http.Formatting.xml
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Web.Http.xml
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\bin\System.Web.Http.WebHost.xml
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\obj\Debug\HackathonApodikseis.dll
+C:\Users\EventUser\Desktop\VisualStudio_Projects\HackathonApodikseis\HackathonApodikseis\obj\Debug\HackathonApodikseis.pdb
